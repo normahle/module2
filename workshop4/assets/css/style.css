@@ -18,3 +18,15 @@ tr:nth-child(even) {
     text-align: center;
     background-color: darkgrey;
 }
+
+.tr2{
+    background-color: #030202;
+    text-align: center;
+}
+.pieter{
+    background-color: white;
+}
+
+#td1{
+    background-color: #c9c9c9;
+}
